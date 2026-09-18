@@ -71,14 +71,6 @@ The project produces:
 
 The hidden layer is changed from **128 neurons to 64 neurons**. Both models are trained using the same dataset and settings, and their test accuracy is compared.
 
-## Project Notebook
-
-[View the Jupyter Notebook](Deep_Learning_MNIST_Assignment.ipynb)
-
 ## Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10EdxMXJghEK6X5KbdpVSqIdgwdkyP8ZE?usp=sharing)
-
-## Author
-
-**Sathish Gowda RS**
+[Open the Assignment in Google Colab](https://colab.research.google.com/drive/10EdxMXJghEK6X5KbdpVSqIdgwdkyP8ZE?usp=sharing)
